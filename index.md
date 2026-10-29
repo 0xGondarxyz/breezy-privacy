@@ -46,7 +46,7 @@ You can ask me, at the address above, what I hold about you, and to correct or d
 
 ## Children
 
-Breezy is for adults. It is not directed at children under 16.
+Breezy is for adults. It is not directed at children.
 
 ## Changes
 
